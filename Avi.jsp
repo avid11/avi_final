@@ -1,5 +1,5 @@
 <html>
-<head><title>Avi JSP</title></head>
+<head><title>Avi JSP new</title></head>
 <body>
   <%
     double num = Math.random();
